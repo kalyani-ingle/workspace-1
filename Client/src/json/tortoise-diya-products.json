@@ -1,0 +1,118 @@
+
+[
+        { 
+          "productID": "TD01",
+          "product_name":"Golden Tortoise Diya (set of 2)",
+          "product_desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "image":"/tor/0_tor.jpg",
+          "price":"550"
+        },
+      
+        {
+          "productID": "TD02",
+          "product_name":"Green Tortoise Diya (set of 2)",
+          "product_desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "image":"/tor/1_tor.jpg",
+          "price":"550"
+        },
+      
+        {
+          "productID": "TD03",
+          "product_name":"Embelished Blue TD (set of 2)",
+          "product_desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "image":"/tor/2_tor.jpg",
+          "price":"650"
+        },
+      
+        {
+          "productID": "TD04",
+          "product_name":"Yellow Tortoise Diya (set of 2)",
+          "product_desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "image":"/tor/3_tor.jpg",
+          "price":"550"
+        },
+      
+      
+        {
+          "productID": "TD05",
+          "product_name":"Green maple Tortoise Diya",
+          "product_desc":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "image":"/tor/4_tor.jpg",
+          "price":"550"
+        },
+      
+      
+        { 
+          "productID": "TD06",
+          "product_name": "Blue Tortoise Diya - 01",
+          "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "image": "/tor/5_tor.jpg",
+          "price": "550"
+        },
+      
+        {
+          "productID": "TD07",
+          "product_name": "Yellow Tortoise Diya - 01",
+          "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "image": "/tor/6_tor.jpg",
+          "price": "550"
+        },
+      
+        {
+          "productID": "TD08",
+          "product_name": "Pista Tortoise Diya",
+          "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "image": "/tor/7_tor.jpg",
+          "price": "550"
+        },
+      
+        {
+          "productID": "TD09",
+          "product_name": "Yellow Tortoise Diya - 02",
+          "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "image": "/tor/8_tor.jpg",
+          "price": "550"
+        },
+        {
+          "productID": "TD10",
+          "product_name": "Blue Tortoise Diya - 02",
+          "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "image": "/tor/9_tor.jpg",
+          "price": "550 "
+        },
+        {
+          "productID": "TD11",
+          "product_name": "Mustard Tortoise Diya - 02",
+          "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "image":"/tor/10_tor.jpg ",
+          "price":"550 "
+        },
+        {
+          "productID": "TD12",
+          "product_name": "Green Orange Tortoise Diya",
+          "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "image":"/tor/11_tor.jpg",
+          "price":"550"
+        },
+        {
+          "productID": "TD13",
+          "product_name": "Golden Tortoise Diya",
+          "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "image":"/tor/12_tor.jpg",
+          "price":"550"
+        },
+        {
+          "productID": "TD14",
+          "product_name": "Green Tortoise Diya",
+          "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "image":"/tor/13_tor.jpg",
+          "price":"550"
+        },
+        {
+          "productID": "TD15",
+          "product_name": "Tortoise Diyas (Pack of 10)",
+          "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+          "image":"/tor/14_tor.jpg",
+          "price":"5300"
+        }
+]

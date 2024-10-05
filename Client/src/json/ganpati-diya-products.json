@@ -1,0 +1,79 @@
+[
+  {
+    "productID": "GD01",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "product_name": "Yellow Green Ganpati Diya (set of 2)",
+    "image": "/gan/0_gan.jpg",
+    "price": "120"
+  },
+  {
+    "productID": "GD02",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "product_name": "Golden Glazy Green Ganpati Diya (set of 2)",
+    "image": "/gan/1_gan.jpg",
+    "price": "120"
+  },
+  {
+    "productID": "GD03",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "product_name": "Vibrant Blue Magenta Ganpati Diya (set of 2)",
+    "image": "/gan/2_gan.jpg",
+    "price": "120"
+  },
+  {
+    "productID": "GD04",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "product_name": "Golden Orange Ganpati Diya (set of 2)",
+    "image": "/gan/3_gan.jpg",
+    "price": "120"
+  },
+  {
+    "productID": "GD05",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "product_name": "Golden Red Ganpati Diya (set of 2)",
+    "image": "/gan/4_gan.jpg",
+    "price": "120"
+  },
+  {
+    "productID": "GD06",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "product_name": "Golden Pink Ganpati Diya (set of 2)",
+    "image": "/gan/5_gan.jpg",
+    "price": "120"
+  },
+  {
+    "productID": "GD07",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "product_name": "Mix match Ganpati Diya (set of 2)",
+    "image": "/gan/6_gan.jpg",
+    "price": "120"
+  },
+  {
+    "productID": "GD08",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "product_name": "Golden Red Ganpati Diya (single piece)",
+    "image": "/gan/7_gan.jpg",
+    "price": "120"
+  },
+  {
+    "productID": "BULK_GD09",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "product_name": "Vibrant Ganpati Diya (set of 12)",
+    "image": "/gan/8_gan.jpg",
+    "price": "1430"
+  },
+  {
+    "productID": "BULK_GD010",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "product_name": "Ganpati Diya-01 (set of 5)",
+    "image": "/gan/9_gan.jpg",
+    "price": "600"
+  },
+  {
+    "productID": "BULK_GD11",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "product_name": "Ganpati Diya-02 (set of 5)",
+    "image": "/gan/10_gan.jpg",
+    "price": "600"
+  }
+]

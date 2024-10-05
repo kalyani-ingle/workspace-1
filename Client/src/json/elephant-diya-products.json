@@ -1,0 +1,72 @@
+[
+    {
+    "productID": "ED01",
+    "product_name": "Red Elephant Diya (set of 2)",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "image": "/ele/0_ele.jpg",
+    "price": "450"
+  },
+  {
+    "productID": "ED02",
+    "product_name": "Green Elephant Diya (set of 2) ",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "image":"/ele/1_ele.jpg",
+    "price":"450"
+  },
+  {
+    "productID": "ED03",
+    "product_name": "Pink Elephant Diya (set of 2)",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "image": "/ele/2_ele.jpg",
+    "price": "450"
+  },
+  {
+    "productID": "ED04",
+    "product_name": " Navy blue Elephant Diya (set of 2)",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "image": "/ele/3_ele.jpg",
+    "price": "450"
+  },
+  {
+    "productID": "ED05",
+    "product_name": "Black Elephant Diya (set of 2)",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "image": "/ele/4_ele.jpg",
+    "price": "450"
+  },
+  {
+    "productID": "ED06",
+    "product_name": "Red Elephant Diya (Single)",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "image": "/ele/5_ele.jpg",
+    "price": "450"
+  },
+  {
+    "productID": "ED07",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "product_name":"Green Elephant Diya (single)",
+    "image":"/ele/6_ele.jpg",
+    "price":"450"
+  },
+  {
+    "productID": "BULK_ED08",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "product_name": "Elephant Diya (set of 10)",
+    "image": "/ele/7_ele.jpg",
+    "price": "450"
+  },
+  {
+    "productID": "BULK_ED09",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "product_name": "Elephant Diya (set of 6)",
+    "image": "/ele/8_ele.jpg",
+    "price": "450"
+  },
+  {
+    "productID": "BULK_ED010",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "product_name": "Multi Diya Pack (set of 6 Elephants, 2 peacocks)",
+    "image": "/ele/9_ele.jpg",
+    "price": "2000"
+  }
+]

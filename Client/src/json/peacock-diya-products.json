@@ -1,0 +1,23 @@
+[
+  {
+    "productID": "PD01",
+    "product_name": "silver Peacock Diya (set of 3)",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "image": "/pea/0_pea.jpg",
+    "price": " 1000"
+  },
+  {
+    "productID": "PD02",
+    "product_name": "Blue and silver (set of 2)",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "image": "/pea/1_pea.jpg",
+    "price": "800"
+  },
+  {
+    "productID": "PD03",
+    "product_name": " Green Peacocks (set of 3)",
+    "product_desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+    "image": "/pea/2_pea.jpg",
+    "price": "1000"
+  }
+]

@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Montez&display=swap");
+
+.navbar .span, .brand {
+  font-family: "Montez", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size: x-large;
+  letter-spacing: 3px;
+}
+
+#email {
+  padding-left: 0.6rem;
+}
+
+#password {
+  padding-left: 0.6rem;
+}
